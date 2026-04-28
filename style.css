@@ -1,0 +1,8 @@
+.bio{
+     width: 400px; 
+     height: 500px;
+      margin: 10px auto; 
+      border-radius: 20px; 
+      padding: 35px; 
+      background-color: rgb(86, 107, 224); 
+    }
