@@ -1,8 +1,34 @@
-.bio{
-     width: 400px; 
-     height: 500px;
-      margin: 10px auto; 
-      border-radius: 20px; 
-      padding: 35px; 
-      background-color: rgba(24, 38, 119, 0.822); 
-    }
+.bio {
+  width: 400px;
+  height: 500px;
+  margin: 10px auto;
+  border-radius: 20px;
+  padding: 35px;
+  background-color: rgba(24, 38, 119, 0.822);
+}
+
+section {
+  margin: auto;
+  background-color: rgba(24, 38, 119, 0.822);
+  display: flex;
+  width: 50%;
+  height: 50vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.filho {
+  background-color: rgba(172, 135, 231, 0.815);
+  height: 80%;
+  width: 25%;
+  padding: 16px;
+}
+
+.filho > * {
+  margin: 20px auto;
+  text-align: center;
+}
+section.cards{
+  
+}
+wid
